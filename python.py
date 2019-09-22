@@ -8,3 +8,7 @@ print("what is your address?")
 myaddress = input ()
 print ("you will be getting a package for your help at " + myaddress)
 int ("you will be getting a package for your help at " + myaddress)
+
+newstuff = input ()
+print ("you will be getting a package for your help at " + myaddress)
+int ("you will be getting a package for your help at " + myaddress)
